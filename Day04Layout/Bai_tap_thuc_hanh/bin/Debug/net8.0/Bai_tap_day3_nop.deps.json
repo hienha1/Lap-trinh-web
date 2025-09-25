@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Bai_tap_day3_nop/1.0.0": {
+        "runtime": {
+          "Bai_tap_day3_nop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bai_tap_day3_nop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
